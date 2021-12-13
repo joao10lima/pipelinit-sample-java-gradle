@@ -1,1 +1,1 @@
-# pipelinit-sample-java-gradle 
+# pipelinit-sample-java-gradle
