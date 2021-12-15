@@ -1,7 +1,10 @@
 package hello;
 
-public class Greeter {  
+public class Greeter {
   public String sayHello() {
-  return 1 == 1;
+    int x = 20;
+    if (x == x) {
+      return "Hello world!";
+    }  
   }
 }
