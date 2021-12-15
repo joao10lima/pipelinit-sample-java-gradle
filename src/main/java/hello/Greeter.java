@@ -1,9 +1,8 @@
 package hello;
 
 public class Greeter {
-  public String sayHello() {
-    int x = 20;
-    if (x == x) {
+  public String sayHello() {    
+    if ('a' == 'a') {
       return "Hello world!";
     }  
   }
